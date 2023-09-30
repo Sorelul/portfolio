@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7bebd28b.css",
+    "main.js": "/portfolio/static/js/main.8e50a644.js",
+    "static/media/portfolio8.png": "/portfolio/static/media/portfolio8.a752a9b4e1176516e57b.png",
+    "static/media/portfolio4.png": "/portfolio/static/media/portfolio4.441dcf4ddc943d90eb20.png",
+    "static/media/portfolio6.png": "/portfolio/static/media/portfolio6.4dc09493317034ee4f5e.png",
+    "static/media/wishlistApp.png": "/portfolio/static/media/wishlistApp.cac8d0ca73d3a9072520.png",
+    "static/media/me-about.jpg": "/portfolio/static/media/me-about.968354cb2df48b3af13f.jpg",
+    "static/media/portfolio7.png": "/portfolio/static/media/portfolio7.a174eb85c16a0bed04dc.png",
+    "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.263095ed14c5d3140bf0.png",
+    "static/media/portfolio2.png": "/portfolio/static/media/portfolio2.22c4f99cdfe7c2cfa68a.png",
+    "static/media/CV_Cotuna_Dumitru-Sorin.pdf": "/portfolio/static/media/CV_Cotuna_Dumitru-Sorin.bb54150d767790309c63.pdf",
+    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.5af65a9bd6f9a63d75e0.png",
+    "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.29e65b25f8e8e78ae1bd.png",
+    "static/media/me.png": "/portfolio/static/media/me.cf1428800c4af4adc8d3.png",
+    "index.html": "/portfolio/index.html",
+    "main.7bebd28b.css.map": "/portfolio/static/css/main.7bebd28b.css.map",
+    "main.8e50a644.js.map": "/portfolio/static/js/main.8e50a644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bebd28b.css",
+    "static/js/main.8e50a644.js"
+  ]
+}
